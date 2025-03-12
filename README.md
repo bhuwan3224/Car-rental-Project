@@ -1,2 +1,2 @@
 # Car-rental-Project
-This is my first python project given by university as an assignment 
+This is my first Python project, assigned by my university as an assignment
